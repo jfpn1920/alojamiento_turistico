@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\bin\Debug\net10.0\alojamiento_turistico.exe
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\bin\Debug\net10.0\alojamiento_turistico.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\bin\Debug\net10.0\alojamiento_turistico.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\bin\Debug\net10.0\alojamiento_turistico.dll
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\bin\Debug\net10.0\alojamiento_turistico.pdb
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.dll
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\refint\alojamiento_turistico.dll
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.pdb
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\alojamiento_turistico.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\alojamiento_turistico\alojamiento_turistico\obj\Debug\net10.0\ref\alojamiento_turistico.dll

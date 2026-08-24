@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "alojamiento_turistico/1.0.0": {
+        "runtime": {
+          "alojamiento_turistico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alojamiento_turistico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
